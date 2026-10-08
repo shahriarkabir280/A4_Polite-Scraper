@@ -1,6 +1,6 @@
 # A4 - The Polite Scraper
 
-A cache-first Python scraping pipeline built for the FlyRank Backend Internship, Week 5 Assignment A9. The project collects book data from the first three catalogue pages of [Books to Scrape](https://books.toscrape.com/), validates the records, stores clean JSON output, and reports what happened during each run.
+A cache-first Python scraping pipeline built for the [FlyRank Internship](https://internship.flyrank.ai/), Week 4 Assignment A4. The project collects book data from the first three catalogue pages of [Books to Scrape](https://books.toscrape.com/), validates the records, stores clean JSON output, and reports what happened during each run.
 
 The implementation focuses on production-minded scraper habits:
 
